@@ -21,6 +21,7 @@ import java.util.Stack;
 //4 1 3 4 7
 //-1
 //2 2 4
+// THIS IS SOOOO EASY
 
 public class IsBipartite {
 
